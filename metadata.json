@@ -1,0 +1,5 @@
+{
+  "name": "Dress Up",
+  "description": "Upload a photo of a person and various clothing items, and the application will use AI to dress the person in the selected items.",
+  "requestFramePermissions": []
+}
